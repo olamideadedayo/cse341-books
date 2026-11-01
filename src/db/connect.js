@@ -21,4 +21,4 @@ const getDb = () => {
   return database;
 };
 
-export { connectToDb, getDb };
+export { connectToDb, getDb }; 
