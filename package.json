@@ -1,4 +1,5 @@
 {
+  "$schema": "https://json.schemastore.org/package",
   "name": "cse341-books",
   "version": "1.0.0",
   "description": "a simple book management application",
